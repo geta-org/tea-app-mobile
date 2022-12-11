@@ -1,6 +1,6 @@
-## TEMPLATE REACT NATIVE + STYLED COMPONENTS
+## TEA-APP-MOBILE
 
-> .
+> An mobile application designed to help parents and caregivers of children with Autism Spectrum Disorder
 
 ## Installing / Getting started
 
