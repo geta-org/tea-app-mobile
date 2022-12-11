@@ -15,3 +15,13 @@ export const HomeWrapper = styled.View`
   width: 20px;
   height: 20px;
 `
+export const BtnSair = styled.TouchableOpacity`
+  background: ${({ theme }) => theme.colors.primary[600]};
+  position: relative;
+  border: 2px solid #000;
+  outline: none;
+  padding: 5px;
+  border-radius: 15px;
+  justify-content: center;
+  align-items: center;
+`
